@@ -1,0 +1,17 @@
+{
+    "test_imports": true,
+    "test_load_data": true,
+    "test_train_test_split": true,
+    "test_information_gain": true,
+    "test_experiment_run_decision_tree": true,
+    "test_experiment_run_perceptron": true,
+    "test_experiment_run_prior_probability": true,
+    "test_experiment_run_and_compare": true,
+    "test_accuracy": true,
+    "test_f1_measure": true,
+    "test_precision_and_recall": true,
+    "test_confusion_matrix": true,
+    "test_netid": true,
+    "test_perceptron": true,
+    "test_transform_data": true
+}
